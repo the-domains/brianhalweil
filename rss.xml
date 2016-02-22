@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BrianHalweil]]></title>
         <description><![CDATA[BrianHalweil]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brianhalweil/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 04:37:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 04:40:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brianhalweil/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://twitter.com/BrianHalweil</p>]]></description>
-            <link>undefined0e50064f-1454-40ac-888a-002041554dec/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0c42c67-6457-40b4-9e68-c39bfe31f2ba.jpg">]]></description>
+            <link>https://thegrid.ai/brianhalweil/0e50064f-1454-40ac-888a-002041554dec/index.html</link>
             <guid isPermaLink="false">0e50064f-1454-40ac-888a-002041554dec</guid>
-            <pubDate>Mon, 22 Feb 2016 04:37:26 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 04:39:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
